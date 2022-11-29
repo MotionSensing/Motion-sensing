@@ -1,4 +1,4 @@
-# Motion-sensing
+# my_app
 this is a demo web called "my_app" - presents an example.
 
 
